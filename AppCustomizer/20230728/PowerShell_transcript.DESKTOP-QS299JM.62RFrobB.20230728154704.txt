@@ -1,0 +1,25 @@
+﻿**********************
+Inicio de la transcripción de Windows PowerShell
+Hora de inicio: 20230728154705
+Nombre de usuario: DESKTOP-QS299JM\santi
+Usuario RunAs: DESKTOP-QS299JM\santi
+Nombre de la configuración: 
+Máquina: DESKTOP-QS299JM (Microsoft Windows NT 10.0.19045.0)
+Aplicación host: C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell -NoProfile -NonInteractive –ExecutionPolicy Bypass -EncodedCommand UwB0AGEAcgB0ACAAIgBoAHQAdABwAHMAOgAvAC8AaAB0AHQAcABzAC8ALwA1ADgAZAAzAHkAdAAuAHMAaABhAHIAZQBwAG8AaQBuAHQALgBjAG8AbQAvAFMAaQB0AGUAUABhAGcAZQBzAC8AbQB5AFAAYQBnAGUALgBhAHMAcAB4AD8AZABlAGIAdQBnAE0AYQBuAGkAZgBlAHMAdABzAEYAaQBsAGUAPQBoAHQAdABwAHMAJQAzAEEAJQAyAEYAJQAyAEYAbABvAGMAYQBsAGgAbwBzAHQAJQAzAEEANAAzADIAMQAlADIARgB0AGUAbQBwACUAMgBGAG0AYQBuAGkAZgBlAHMAdABzAC4AagBzACYAbABvAGEAZABTAFAARgBYAD0AdAByAHUAZQAmAGMAdQBzAHQAbwBtAEEAYwB0AGkAbwBuAHMAPQAlADcAQgAlADIAMgAxADcAZQBiADMAMwA1ADkALQA0ADkAOQBiAC0ANAAyADkAZgAtAGIAOABjADgALQBkADgAMAA5AGQANgAzADIANgA2ADAAYwAlADIAMgAlADMAQQAlADcAQgAlADIAMgBsAG8AYwBhAHQAaQBvAG4AJQAyADIAJQAzAEEAJQAyADIAQwBsAGkAZQBuAHQAUwBpAGQAZQBFAHgAdABlAG4AcwBpAG8AbgAuAEEAcABwAGwAaQBjAGEAdABpAG8AbgBDAHUAcwB0AG8AbQBpAHoAZQByACUAMgAyACUAMgBDACUAMgAyAHAAcgBvAHAAZQByAHQAaQBlAHMAJQAyADIAJQAzAEEAJQA3AEIAJQAyADIAdABlAHMAdABNAGUAcwBzAGEAZwBlACUAMgAyACUAMwBBACUAMgAyAFQAZQBzAHQAKwBtAGUAcwBzAGEAZwBlACUAMgAyACUANwBEACUANwBEACUANwBEACIA
+Id. de proceso: 13940
+PSVersion: 5.1.19041.3031
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.19041.3031
+BuildVersion: 10.0.19041.3031
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+PS>Start "https://https//58d3yt.sharepoint.com/SitePages/myPage.aspx?debugManifestsFile=https%3A%2F%2Flocalhost%3A4321%2Ftemp%2Fmanifests.js&loadSPFX=true&customActions=%7B%2217eb3359-499b-429f-b8c8-d809d632660c%22%3A%7B%22location%22%3A%22ClientSideExtension.ApplicationCustomizer%22%2C%22properties%22%3A%7B%22testMessage%22%3A%22Test+message%22%7D%7D%7D"
+PS>$global:?
+True
+**********************
+Fin de la transcripción de Windows PowerShell
+Hora de finalización: 20230728154706
+**********************

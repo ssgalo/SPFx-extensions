@@ -1,0 +1,89 @@
+﻿**********************
+Inicio de la transcripción de Windows PowerShell
+Hora de inicio: 20230728153521
+Nombre de usuario: DESKTOP-QS299JM\santi
+Usuario RunAs: DESKTOP-QS299JM\santi
+Nombre de la configuración: 
+Máquina: DESKTOP-QS299JM (Microsoft Windows NT 10.0.19045.0)
+Aplicación host: C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe -noexit -command try { . "c:\Users\santi\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\contrib\terminal\browser\media\shellIntegration.ps1" } catch {}
+Id. de proceso: 2172
+PSVersion: 5.1.19041.3031
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.19041.3031
+BuildVersion: 10.0.19041.3031
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+PS>try { . "c:\Users\santi\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\contrib\terminal\browser\media\shellIntegration.ps1" } catch {}
+PS>ErrorTerminación(Get-PSReadLineKeyHandler): "No se encuentra ningún parámetro que coincida con el nombre del parámetro 'Chord'."
+PS>ErrorTerminación(Get-PSReadLineKeyHandler): "No se encuentra ningún parámetro que coincida con el nombre del parámetro 'Chord'."
+PS>ErrorTerminación(Get-PSReadLineKeyHandler): "No se encuentra ningún parámetro que coincida con el nombre del parámetro 'Chord'."
+PS>ErrorTerminación(Get-PSReadLineKeyHandler): "No se encuentra ningún parámetro que coincida con el nombre del parámetro 'Chord'."
+]633;A]633;P;Cwd=C:\x5cSoftware Santi\x5cSPFx-extensionsPS C:\Software Santi\SPFx-extensions> ]633;B
+PS>yo @microsoft/sharepoint
+Add new Application Customizer to solution sp-fx-extensions.
+? What is your Application Customizer name? AppCustomizer
+]633;E;yo @microsoft/sharepoint;3430cc43-e088-4084-af18-7096fde849bf]633;D;1]633;A]633;P;Cwd=C:\x5cSoftware Santi\x5cSPFx-extensionsPS C:\Software Santi\SPFx-extensions> ]633;B
+PS>cd .\AppCustomizer\
+]633;E;cd .\x5cAppCustomizer\x5c;3430cc43-e088-4084-af18-7096fde849bf]633;D;0]633;A]633;P;Cwd=C:\x5cSoftware Santi\x5cSPFx-extensions\x5cAppCustomizerPS C:\Software Santi\SPFx-extensions\AppCustomizer> ]633;B
+PS>yo @microsoft/sharepoint
+Run `npm audit` for details.
+
+
+      _=+#####!
+   ###########|       .---------------------------------------.
+   ###/    (##|(@)    |            Congratulations!           |
+   ###  ######|   \   |  Solution app-customizer is created.  |
+   ###/   /###|   (@) |    Run gulp serve to play with it!    |
+   #######  ##|   /   '---------------------------------------'
+   ###     /##|(@)
+   ###########|
+      **=+####!
+]633;E;yo @microsoft/sharepoint;3430cc43-e088-4084-af18-7096fde849bf]633;D;0]633;A]633;P;Cwd=C:\x5cSoftware Santi\x5cSPFx-extensions\x5cAppCustomizerPS C:\Software Santi\SPFx-extensions\AppCustomizer> ]633;B
+PS>gulp serve
+
+PS>ErrorTerminación(): "Se ha detenido la canalización."
+>> ErrorTerminación(): "Se ha detenido la canalización."
+>> ErrorTerminación(): "Se ha detenido la canalización."
+]633;E;gulp serve;3430cc43-e088-4084-af18-7096fde849bf]633;D;1]633;A]633;P;Cwd=C:\x5cSoftware Santi\x5cSPFx-extensions\x5cAppCustomizerPS C:\Software Santi\SPFx-extensions\AppCustomizer> ]633;B
+PS>gulp serve
+
+PS>ErrorTerminación(): "Se ha detenido la canalización."
+>> ErrorTerminación(): "Se ha detenido la canalización."
+>> ErrorTerminación(): "Se ha detenido la canalización."
+]633;E;gulp serve;3430cc43-e088-4084-af18-7096fde849bf]633;D;1]633;A]633;P;Cwd=C:\x5cSoftware Santi\x5cSPFx-extensions\x5cAppCustomizerPS C:\Software Santi\SPFx-extensions\AppCustomizer> ]633;B
+PS>gulp serve
+
+PS>ErrorTerminación(): "Se ha detenido la canalización."
+>> ErrorTerminación(): "Se ha detenido la canalización."
+>> ErrorTerminación(): "Se ha detenido la canalización."
+]633;E;gulp serve;3430cc43-e088-4084-af18-7096fde849bf]633;D;1]633;A]633;P;Cwd=C:\x5cSoftware Santi\x5cSPFx-extensions\x5cAppCustomizerPS C:\Software Santi\SPFx-extensions\AppCustomizer> ]633;B
+PS>gulp trust-dev-cert
+
+]633;E;gulp trust-dev-cert;3430cc43-e088-4084-af18-7096fde849bf]633;D;0]633;A]633;P;Cwd=C:\x5cSoftware Santi\x5cSPFx-extensions\x5cAppCustomizerPS C:\Software Santi\SPFx-extensions\AppCustomizer> ]633;B
+PS>gulp serve
+[16:05:45] The following tasks did not complete: serve
+[16:05:45] Did you forget to signal async completion?
+PS>ErrorTerminación(): "Se ha detenido la canalización."
+>> ErrorTerminación(): "Se ha detenido la canalización."
+>> ErrorTerminación(): "Se ha detenido la canalización."
+]633;E;gulp serve;3430cc43-e088-4084-af18-7096fde849bf]633;D;1]633;A]633;P;Cwd=C:\x5cSoftware Santi\x5cSPFx-extensions\x5cAppCustomizerPS C:\Software Santi\SPFx-extensions\AppCustomizer> ]633;B
+PS>npm install @microsoft/sp-office-ui-fabric-core -SE
+
+]633;E;npm install @microsoft/sp-office-ui-fabric-core -SE;3430cc43-e088-4084-af18-7096fde849bf]633;D;0]633;A]633;P;Cwd=C:\x5cSoftware Santi\x5cSPFx-extensions\x5cAppCustomizerPS C:\Software Santi\SPFx-extensions\AppCustomizer> ]633;B
+PS>gulp serve
+  Request: '/temp/manifests.js'
+  Request: '/dist/my-app-customizer-application-customizer.js'
+  Request: '/dist/MyAppCustomizerApplicationCustomizerStrings_en-us.js'
+[16:28:18] Server stopped
+[16:28:18] The following tasks did not complete: serve
+[16:28:18] Did you forget to signal async completion?
+About to exit with code: 0
+Process terminated before summary could be written, possible error in async code not continuing!
+Trying to exit with exit code 1
+PS>ErrorTerminación(): "Se ha detenido la canalización."
+>> ErrorTerminación(): "Se ha detenido la canalización."
+>> ErrorTerminación(): "Se ha detenido la canalización."
+]633;E;gulp serve;3430cc43-e088-4084-af18-7096fde849bf]633;D;1]633;A]633;P;Cwd=C:\x5cSoftware Santi\x5cSPFx-extensions\x5cAppCustomizerPS C:\Software Santi\SPFx-extensions\AppCustomizer> ]633;B
